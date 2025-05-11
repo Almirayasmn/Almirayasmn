@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in **AI, Web3, and Creative App Development**
 - 🌱 I’m currently learning **Web3 development, Flutter, and building AI-powered apps**
-- 💞️ I’m looking to collaborate on **tech projects that make a positive impact (AI for Good, social platforms, etc.)**
 - 📫 How to reach me: **yasmeenalmira9@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/almirarayass/)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I’m also a **singer-performer** who blends tech and creativity!
